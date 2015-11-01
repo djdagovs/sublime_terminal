@@ -1,12 +1,12 @@
-= Sublime Terminal
+# Sublime Terminal
 
 Key-bindings and menu entries for launching a terminal at a given file or folder
-from within [[http://sublimetext.com/2|Sublime Text 2]].
+from within [http://sublimetext.com/][Sublime Text].
 
 Please see http://wbond.net/sublime_packages/terminal for install instructions,
 screenshots and documentation.
 
-== License
+## License
 
 All of Sublime Terminal is licensed under the MIT license.
 
