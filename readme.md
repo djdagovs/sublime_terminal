@@ -28,7 +28,7 @@ In addition to the key bindings, terminals can also be opened via the editor con
 
 ## Package Settings
 
-The default settings can be viewed by accessing the **Preferences > Package Settings > Terminal > Settings – Default** menu entry. To ensure settings are not lost when the package is upgraded, make sure all edits are saved to **Settings – User**.
+The default settings can be viewed by accessing the ***Preferences > Package Settings > Terminal > Settings – Default*** menu entry. To ensure settings are not lost when the package is upgraded, make sure all edits are saved to ***Settings – User***.
 
  - **terminal**
      - The terminal to execute, will default to the OS default if blank. OS X users may enter *iTerm.sh* to launch iTerm if installed.
