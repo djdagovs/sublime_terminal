@@ -32,10 +32,10 @@ The default settings can be viewed by accessing the **Preferences > Package Sett
 
  - **terminal**
      - The terminal to execute, will default to the OS default if blank. OS X users may enter *iTerm.sh* to launch iTerm if installed.
-     - *Default: ""*
+     - *Default: **""***
  - **parameters**
      - The parameters to pass to the terminal. These parameters will be used if no [custom parameters](http://wbond.net/sublime_packages/terminal#Custom_Parameters) are passed via a key binding.
-     - *Default: []*
+     - *Default: **[]***
 
 ## Custom Parameters
 
