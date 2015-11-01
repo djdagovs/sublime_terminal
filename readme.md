@@ -67,6 +67,54 @@ A parameter may also contain the *%CWD%* placeholder, which will be substituted 
 
 ## Changelog
 
+### v1.10.1
+
+ - Replaced readme.creole with readme.md based off of website
+
+### v1.10.0
+
+ - Repaired handling of temporary views in Sublime Text 3
+
+### v1.9.0
+
+ - Added commands to open the terminal from the command palette
+
+### v1.8.2
+
+ - Fixed "--open-in-tab" behavior when no terminal is open
+
+### v1.8.1
+
+ - Repaired FiSH compatibility more elegantly
+
+### v1.8.0
+
+ - Added support for opening a new tab in iTerm
+
+### v1.7.2
+
+ - Repaired handling multiple project folders with same base path and starting name
+
+### v1.7.1
+
+ - Corrected hyphen/dash typo in settings
+
+### v1.7.0
+
+ - Added support for OS specific settings
+
+### v1.6.0
+
+ - Added compatibility for FiSH
+
+### v1.5.0
+
+ - Added support for LXTerminal, Mate Terminal, xfce4, and Linux Mint/Cinnamon
+
+### v1.4.0
+
+ - Added support for Sublime Text 3
+
 ### v1.3.1
 
  - Added support for non-ASCII directory paths
